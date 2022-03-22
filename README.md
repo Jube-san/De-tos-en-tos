@@ -12,7 +12,7 @@ Proyecto (código): 07-2022
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/Jube-san/De-tos-en-tos/blob/master/1B%20Personaje.drawio.png)
 
 Nombre: 
 
