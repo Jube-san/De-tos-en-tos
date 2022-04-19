@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): De tos en tos
+# Proyecto: De tos en tos
 
 Nombre del Equipo: 
 
@@ -9,6 +9,7 @@ Proyecto (código): 07-2022
 
 ## Resumen
 
+Barnie, un jardinero vulgar y corriente se cansa de solo trabajar en jardines del ayuntamiento y comienza a crear un interior en su casa. Un día, Barnie se pone enfermo y, a pesar de estar así, se dirige a trabajar en su flamante bicicleta. En ese momento, debido a la congestión, comienza a toser. De pronto, abre los ojos, y se encuentra delante de 200.000 nazis. Barnie ha viajado en el tiempo.
 
 ### Personaje
 
@@ -29,7 +30,7 @@ Nombre:
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://h5p.org/node/1256130
 
 - Banner/Teaser:  (enlace) 
 
